@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\GitFiles\\android_studio_practice\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\GitFiles\\android_studio_practice\\XMLPullParser\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\GitFiles\\android_studio_practice\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_exploreca.png",
+        "source": "C:\\GitFiles\\android_studio_practice\\XMLPullParser\\app\\src\\main\\res\\drawable-hdpi\\ic_exploreca.png"
+    }
+]
